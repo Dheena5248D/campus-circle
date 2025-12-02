@@ -133,12 +133,11 @@ const studentsData = [
 
 // Developer info
 const developerInfo = {
-  developerName: 'Your Name',
-  github: 'https://github.com/yourusername',
-  instagram: 'https://instagram.com/yourusername',
+  developerName: 'Dheenadayalan',
+  github: 'https://github.com/Dheena5248D',
+  instagram: 'https://instagram.com/Cryptic_dheena',
   message: 'Built with ❤️ for our college community. CampusCircle aims to connect students and foster meaningful interactions within our campus.',
-  email: 'your.email@example.com',
-  portfolio: 'https://yourportfolio.com'
+  email: 'dheenadayalan5248d@gmail.com'
 };
 
 const seedDatabase = async () => {
